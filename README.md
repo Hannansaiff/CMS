@@ -1,1 +1,1 @@
-# CMS
+http://localhost/wordpress/wp-admin/
